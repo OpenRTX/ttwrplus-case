@@ -3,10 +3,10 @@
 
 ![studio 253](https://github.com/OpenRTX/ttwrplus-case/assets/49025042/4e689ff5-3ede-4f86-8d1d-9a724dcd738a)
 
-This case gives an ergonomic body to the Open Source board. It wen't through more than 10 iterations to get the most out of the design, focusing on ease of use and creation via 3Dprinting. It cost 0.5-1.5€/$ and approximately 3-5 hours to produce. 
+This case gives an ergonomic body to the Open Source board. It wen't through more than 10 iterations to get the most out of the design, focusing on ease of use and creation via 3Dprinting. No modification is needed, neither screws, just pop in the board as it is. The case will cost 0.5-1.5€/$ in filament and take approximately 3-5 hours to produce depending on your print specification. 
 
 The recomended printing settings are:
- - Filament tested are PLA (more ridig, harder snap-on, risk of buttons breaking) and PETG (more flexible and durable, weaker snap-on)
+ - Filament tested are PLA (more ridig, harder snap-on, risk of buttons breaking) and PETG (recomended becase it is more flexible and durable, with a weaker snap-on)
  - Layer Height between 0.1 - 0.15 - 0.2mm
  - 4 perimiters
  - No Support
