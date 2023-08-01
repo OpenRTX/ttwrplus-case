@@ -42,5 +42,8 @@ To try this more advanced (and risk prone) effect follow these steps:
 
 ![Printing Case on text](https://github.com/OpenRTX/ttwrplus-case/assets/49025042/074ac930-e94e-4046-a6e4-6a1d0f817208)
 
-Design of the case by Pietro Tordini
+
 9_ Print the case as you normally would.
+
+Design of the case by Pietro Tordini
+(Design as been tested during development on a prusa i3mk3S and an ender 3 v1)
